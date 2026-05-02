@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Elyass 👋
 
-<!--
-**elyass399/elyass399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science student specializing in **Generative AI** and **LLM systems**.
 
-Here are some ideas to get you started:
+Currently building advanced RAG architectures and GraphRAG systems in a real enterprise environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **AI/ML:** Python, LangChain, RAG, GraphRAG, Machine Learning
+- **Web:** Nuxt 3, JavaScript, HTML/CSS, Vercel
+- **Other:** .NET MAUI, SQL
+
+## 🚀 What I'm working on
+- Generative AI systems for enterprise applications
+- Advanced retrieval architectures (RAG Raptor, GraphRAG)
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elyass_Rochdi-blue)](https://linkedin.com/in/elyass-rochdi-126484275)
+
+---
+*Open to Junior AI Engineer opportunities — available from August 2026*
