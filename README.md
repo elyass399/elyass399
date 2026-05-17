@@ -17,4 +17,4 @@ Currently building advanced RAG architectures and GraphRAG systems in a real ent
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elyass_Rochdi-blue)](https://linkedin.com/in/elyass-rochdi-126484275)
 
 ---
-*Open to Junior AI Engineer opportunities — available from August 2026*
+*Open to Junior AI Engineer opportunities 
